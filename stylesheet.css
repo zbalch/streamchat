@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'RuneScape';
-    src: url('RuneScapeBold.woff2') format('woff2'),
-        url('RuneScapeBold.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/zbalch/streamchat/blob/main/RuneScapeBold.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/zbalch/streamchat/blob/main/RuneScapeBold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'RuneScape';
-    src: url('RuneScape.woff2') format('woff2'),
-        url('RuneScape.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/zbalch/streamchat/blob/main/RuneScape.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/zbalch/streamchat/blob/main/RuneScape.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
